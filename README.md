@@ -2,7 +2,7 @@
 # SISTEMA BANCARIO EM PYTHON
 
 
-Criação de um projeto desafio do bootcamp DIO, um sistema bancário  utilizando os fundamntos da stack Python.
+Criação de um projeto desafio do bootcamp DIO, um sistema bancário  utilizando os fundamentos da stack Python.
 
 # Objetivo
 
